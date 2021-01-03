@@ -1,4 +1,4 @@
-#Python
+# Python
 
 I completed my certification in the Python pathway offered by Mimo. It covered the following topics:
 
