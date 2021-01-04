@@ -14,4 +14,4 @@ I completed my certification in the Python pathway offered by Mimo. It covered t
  * Classes
  * Modules
  
-This certifcate of achievement is attached as a PDF in this repository, under the Python branch
+This certifcate of achievement is attached as a PDF in this repository, under the Python folder
