@@ -1,0 +1,26 @@
+body {
+ font-family: "Arial";
+ text-align: center;
+}
+
+.product {
+ border: 1px solid;
+ width: 120px;
+ padding: 10px;
+ margin: auto;
+}
+
+.price {
+ color: darkGreen;
+ font-size: 20px;
+}
+
+.oldPrice {
+ color: gray;
+ font-size: 12px;
+}
+
+button{
+	background-color: gold;
+	padding: 5px;
+}
