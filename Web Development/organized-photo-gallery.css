@@ -1,0 +1,17 @@
+img {
+ width: 100px;
+ height: 100px;
+ margin: 10px;
+ border: solid olive;
+ padding: 5px;
+}
+
+h2 {
+ background-color: lightGrey;
+ margin: 10px;
+ padding-top: 30px;
+ padding-bottom: 10px;
+ width: 250px;
+ border: solid olive;
+ text-align: center;
+}
