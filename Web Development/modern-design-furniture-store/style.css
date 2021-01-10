@@ -1,0 +1,32 @@
+body {
+ text-align: center;
+}
+
+h2 {
+ background-color: aliceBlue;
+ margin: 40px 30px 30px 30px;
+ border-radius: 0 30px 30px 0;
+}
+
+img {
+ background-color: lightBlue;
+ width: 100px;
+ padding: 10px;
+ border-radius: 20px;
+ margin: 10px 5px 0 5px; 
+}
+
+button {
+ background-color: darkCyan;
+ color:white;
+ padding: 5px 15px 5px 15px;
+ margin: 25px 0 0 0;
+ border-radius: 0 30px 30px 0;
+}
+
+p {
+ background-color: aliceBlue;
+ padding: 5px 10px 5px 10px;
+ margin: 30px 30px 0 30px;
+ border-radius: 15px 0 15px 0;
+}
