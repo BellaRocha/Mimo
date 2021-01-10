@@ -1,0 +1,17 @@
+photo {
+ height: 100px;
+ width: 200px;  
+ border-radius: 30px;
+}
+
+.population {
+ border:solid 5px plum;
+}
+
+.funFact {
+ border:solid 5px green;
+}
+
+p {
+ border-radius: 10px;
+}
