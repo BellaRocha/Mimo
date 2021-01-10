@@ -1,0 +1,15 @@
+h5 {
+ color: grey;
+ margin: 0px 0px 0px 30px;
+}
+
+body {
+ background-color: aliceblue;
+}
+
+div {
+ border-radius: 10px;
+ background-color: lightblue;
+ margin: 20px;
+ padding: 10px;
+}
